@@ -1,0 +1,100 @@
+.hero-title {
+  color: var(--blue);
+  font-family: Inter;
+  text-align: center;
+  font-size: 96px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 96%;
+  letter-spacing: 1.92px;
+  @media screen and (max-width: 1024px) {
+    font-size: 48px;
+  }
+  @media screen and (max-width: 744px) {
+    font-size: 32px;
+  }
+}
+.text_18 {
+  font-family: Kanit;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 100%;
+  @media screen and (max-width: 1024px) {
+    font-size: 16px;
+  }
+}
+.text_24 {
+  font-family: Kanit;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 100%;
+  @media screen and (max-width: 1024px) {
+    font-size: 16px;
+  }
+  @media screen and (max-width: 744px) {
+    font-size: 14px;
+  }
+}
+.section-title {
+  font-family: Kanit;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  @media screen and (max-width: 1024px) {
+    font-size: 32px;
+  }
+  @media screen and (max-width: 744px) {
+    font-size: 24px;
+  }
+}
+.title_24 {
+  font-family: Kanit;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 110%;
+  text-transform: uppercase;
+  @media screen and (max-width: 1024px) {
+    font-size: 20px;
+  }
+  @media screen and (max-width: 744px) {
+    font-size: 16px;
+  }
+}
+.title_32 {
+  text-align: center;
+  font-family: Kanit;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 100%; /* 32px */
+  text-transform: uppercase;
+}
+.text_16 {
+  font-family: Kanit;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 110%;
+  @media screen and (max-width: 1024px) {
+    font-size: 15px;
+  }
+  @media screen and (max-width: 744px) {
+    font-size: 14px;
+  }
+}
+.section-title_40 {
+  text-align: center;
+  font-family: Kanit;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 110%; /* 44px */
+  text-transform: uppercase;
+  @media screen and (max-width: 1024px) {
+    font-size: 32px;
+  }
+}
